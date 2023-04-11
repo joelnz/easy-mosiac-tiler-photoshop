@@ -29,11 +29,10 @@ Now, simply take the exported JPEG files to your nearest pharmacy or drugstore p
 
 ## Example Images
 
-
-`![Original Image](demo_images/original_image.jpg)`
-`![Scaled and Centered Image](demo_images/tiled.png)`
-`![Sample Exported Tile](demo_images/output.png)`
-`![Final Mosaic](demo_images/printed_photos)`
+![Original Image](demo_images/original_image.jpg)
+![Scaled and Centered Image](demo_images/tiled.png)
+![Sample Exported Tile](demo_images/output.png)
+![Final Mosaic](demo_images/printed_photos)
 
 
 ## License
