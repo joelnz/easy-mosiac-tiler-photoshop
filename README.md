@@ -29,17 +29,18 @@ Now, simply take the exported JPEG files to your nearest pharmacy or drugstore p
 
 ## Example Images
 
+Original image:
 ![Original Image](demo_images/original_image.jpg)
-Original image
 
+Grid divisions:
 ![Grid](demo_images/tiled.png)
-Grid divisions
 
+Exported tiles:
 ![Exported Tiles](demo_images/output.png)
-Exported tiles
 
+Printed photos:
 ![Printed photos](demo_images/printed_photos.png)
-Printed photos
+
 
 
 ## License
