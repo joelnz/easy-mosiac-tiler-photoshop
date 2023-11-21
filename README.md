@@ -19,7 +19,7 @@ The script will:
 ### Usage
 
 1. Open the image you want to create a mosaic from in Photoshop.
-2. Go to `File` > `Scripts` > `Browse...` and locate the downloaded `mosaic_tiler.jsx` file.
+2. Go to `File` > `Scripts` > `Browse...` and locate the downloaded `CreateMosaicTiles.jsx` file.
 3. The script will prompt you to enter the width and height of the wall (in inches) you want to create a mosaic for.
 4. Select a folder where you want to save the 6x4 inch tile JPEG files.
 5. The script will generate the tiles and save them in the selected folder.
