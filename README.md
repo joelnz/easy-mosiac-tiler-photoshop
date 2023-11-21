@@ -5,7 +5,7 @@ Photoshop script allowing you to create wall mosaics from a single image. It aut
 The script will:
 
 1. Ask you to provide the dimensions of the wall area you want to cover with the mosaic.
-2. Scale your image to fit the specified wall area while maintaining its aspect ratio.
+2. Contain your image within the wall area while maintaining its aspect ratio.
 3. Divide the image into 6x4 inch tiles and save them as separate JPEG files.
 
 
@@ -13,7 +13,7 @@ The script will:
 
 ### Installation
 
-1. Download the `mosaic_tiler.jsx` file from the repository.
+1. Download the `CreateMosaicTiles.jsx` file from the repository.
 2. Open Adobe Photoshop.
 
 ### Usage
@@ -24,7 +24,7 @@ The script will:
 4. Select a folder where you want to save the 6x4 inch tile JPEG files.
 5. The script will generate the tiles and save them in the selected folder.
 
-Now, simply take the exported JPEG files to your nearest pharmacy or drugstore photo kiosk and print your 6x4 inch tiles. Assemble the printed tiles on your wall to create the mosaic!
+Now, take the exported JPEG files to your nearest pharmacy or drugstore photo kiosk and print your 6x4 inch tiles. Assemble the printed tiles on your wall to create the mosaic!
 
 
 ## Example Images
