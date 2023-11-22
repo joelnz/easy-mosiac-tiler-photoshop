@@ -47,5 +47,5 @@ Printed photos:
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Tested on
-The script has been tested on Photoshop 2020
+## Compatability
+The script has only been tested on Photoshop 2020
