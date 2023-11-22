@@ -1,6 +1,6 @@
 # Easy Mosaic Tiler for Photoshop
 
-Photoshop script allowing you to create wall mosaics from a single image. It automatically divides your image into 6x4" tiles, which you can easily print at a pharmacy photo kiosk.
+Photoshop script allowing you to create wall mosaics from a single image. It automatically divides your image into 6x4" tiles, which you can easily print at a pharmacy photo kiosk. 
 
 The script will:
 
@@ -46,3 +46,6 @@ Printed photos:
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Tested on
+The script has been tested on Photoshop 2020
