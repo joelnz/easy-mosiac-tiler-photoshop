@@ -7,8 +7,8 @@ const LABEL_COLOR_GREEN = 0;
 const LABEL_COLOR_BLUE = 0;
 const PROGRESS_BAR_MESSAGE = 'Processing...';
 const PROGRESS_BAR_CANCEL_LABEL = 'Cancel';
-const LABEL_TEXT_SIZE = 5;
-const LABEL_OPACITY = 20; // Percent
+const LABEL_TEXT_SIZE = 6;
+const LABEL_OPACITY = 40; // Percent
 const LABEL_Y_OFFSET = 0.25; // Inches from top for label placement
 const JPEG_QUALITY = 12;
 
